@@ -1,5 +1,11 @@
-buttons {
+class .title{
+
+  color: blue;
+  border: 5px;
+  align-self: normal;
+}
+class .buttons{
+  color:rgb(161, 197, 28);
   align-items: center;
-  border: 6px solid rgb(236, 13, 13);
-  background-color: rgb(223, 245, 24);
+  
 }
