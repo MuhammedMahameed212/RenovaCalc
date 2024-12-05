@@ -1,0 +1,23 @@
+
+h1{
+  color: rgb(226, 13, 180);
+  border: 5px;
+  align-self: normal;
+}
+h2{
+  color:purple;
+  border: 5px;
+  align-content: center;
+}
+button{
+  background-color:cyan;
+  color:rgb(161, 197, 28);
+  align-items: center;
+}
+b{
+  color:red;
+}
+body{
+  color:blue;
+  
+}
